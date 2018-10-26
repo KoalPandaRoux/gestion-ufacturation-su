@@ -8,18 +8,56 @@
         mc:Ignorable="d"
         Title="Logiciel de facturation" Height="800" Width="1200">
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-        </Grid.ColumnDefinitions>
+
+
         <Grid.RowDefinitions>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
+            <RowDefinition Height="192.8"></RowDefinition>
+            <RowDefinition Height="193*"></RowDefinition>
+            <RowDefinition Height="192*"></RowDefinition>
+            <RowDefinition Height="193*"></RowDefinition>
         </Grid.RowDefinitions>
 
-        <Label Margin="5,50" FontSize="20">Clients Factures</Label>
+
+        <StackPanel>
+            <Label Margin="5,15" FontSize="20">Clients Factures</Label>
+        </StackPanel>
+
+        <GroupBox Grid.Row="0" Header="Nouvelle facture" Margin="0,53,-0.4,21.6" Grid.RowSpan="2" HorizontalAlignment="Right" Width="1194">
+            <StackPanel>
+                <Label Content="Nom" HorizontalAlignment="Left" Width="65" RenderTransformOrigin="0.5,0.5" Margin="15,0,0,0"/>
+                <TextBox HorizontalAlignment="Left" Width="133" Height="19" Margin="19,0,0,0"/>
+                <Label Content="Prénom" HorizontalAlignment="Left" Width="57" RenderTransformOrigin="0.5,0.5" Margin="15,0,0,0"/>
+                <TextBox HorizontalAlignment="Left" Width="133" Height="19" Margin="19,0,0,0"/>
+
+                <Label Content="Numéro" HorizontalAlignment="Left" Width="65" RenderTransformOrigin="0.5,0.5" Margin="15,0,0,0"/>
+                <TextBox HorizontalAlignment="Left" Width="133" Height="19" Margin="19,0,0,0"/>
+
+
+                <Label Content="Adresse" HorizontalAlignment="Left" Width="57" RenderTransformOrigin="0.5,0.5" Margin="15,0,0,0"/>
+                <TextBox HorizontalAlignment="Left" Width="133" Height="19" Margin="19,0,0,0"/>
+
+                <Button Background="Green" Content="Valider" Width="100" Height="20" HorizontalAlignment="Right" Margin="0,0,542,0"/>
+
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Grid.Row="1" Header="Recherche" Margin="0,176.2,-0.4,69.6" Grid.RowSpan="2" HorizontalAlignment="Right" Width="1194">
+            <StackPanel>
+                <Label Content="Informations" HorizontalAlignment="Right" Width="124" Margin="0,0,1045,0"/>
+                <TextBox HorizontalAlignment="Left" Height="23" Margin="15,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119" RenderTransformOrigin="-0.968,-0.8" TextChanged="TextBox_TextChanged"/>
+
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Grid.Row="2" Header="Liste des clients" Margin="0,136.4,-0.4,-92.6" Grid.RowSpan="2">
+            <DataGrid Name="client_list" AutoGenerateColumns="False" Grid.Row="1" CanUserAddRows="False" Margin="0,-6,0,92.4">
+                <DataGridTextColumn Header="Nom" Binding="{Binding Nom}" />
+                <DataGridTextColumn Header="Prénom" Binding="{Binding Prenom}"/>
+                <DataGridTextColumn Header="Numéro" Binding="{Binding Numero}"/>
+                <DataGridTextColumn Header="Adresse" Binding="{Binding Adresse}"/>
+            </DataGrid>
+        </GroupBox>
+
 
     </Grid>
 </Controls:MetroWindow>
