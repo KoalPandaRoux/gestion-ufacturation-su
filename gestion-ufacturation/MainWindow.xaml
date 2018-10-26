@@ -6,8 +6,20 @@
         xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
         xmlns:local="clr-namespace:gestion_ufacturation"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Logiciel de facturation" Height="800" Width="1200">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Margin="5,50" FontSize="20">Clients Factures</Label>
+
     </Grid>
 </Controls:MetroWindow>
