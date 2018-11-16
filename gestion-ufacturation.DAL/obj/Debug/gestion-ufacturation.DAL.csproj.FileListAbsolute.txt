@@ -1,0 +1,13 @@
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\bin\Debug\gestion-ufacturation.DAL.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\bin\Debug\gestion-ufacturation.DAL.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\bin\Debug\gestion-ufacturation.SHARED.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\bin\Debug\MySql.Data.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\bin\Debug\gestion-ufacturation.SHARED.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\bin\Debug\MySql.Data.xml
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\obj\Debug\gestion-ufacturation.DAL.csprojAssemblyReference.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\obj\Debug\gestion-ufacturation.DAL.csproj.CoreCompileInputs.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\obj\Debug\gestion-ufacturation.DAL.csproj.CopyComplete
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\obj\Debug\gestion-ufacturation.DAL.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.DAL\obj\Debug\gestion-ufacturation.DAL.pdb

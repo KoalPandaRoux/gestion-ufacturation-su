@@ -1,0 +1,15 @@
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\gestion-ufacturation.BLL.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\gestion-ufacturation.BLL.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\gestion-ufacturation.DAL.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\gestion-ufacturation.SHARED.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\MySql.Data.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\gestion-ufacturation.DAL.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\gestion-ufacturation.SHARED.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\MySql.Data.xml
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\bin\Debug\Google.Protobuf.xml
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\obj\Debug\gestion-ufacturation.BLL.csprojAssemblyReference.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\obj\Debug\gestion-ufacturation.BLL.csproj.CoreCompileInputs.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\obj\Debug\gestion-ufacturation.BLL.csproj.CopyComplete
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\obj\Debug\gestion-ufacturation.BLL.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.BLL\obj\Debug\gestion-ufacturation.BLL.pdb

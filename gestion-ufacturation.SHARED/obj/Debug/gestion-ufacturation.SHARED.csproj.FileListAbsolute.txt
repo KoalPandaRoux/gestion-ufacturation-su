@@ -1,0 +1,6 @@
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.SHARED\bin\Debug\gestion-ufacturation.SHARED.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.SHARED\bin\Debug\gestion-ufacturation.SHARED.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.SHARED\obj\Debug\gestion-ufacturation.SHARED.csprojAssemblyReference.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.SHARED\obj\Debug\gestion-ufacturation.SHARED.csproj.CoreCompileInputs.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.SHARED\obj\Debug\gestion-ufacturation.SHARED.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation.SHARED\obj\Debug\gestion-ufacturation.SHARED.pdb

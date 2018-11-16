@@ -1,0 +1,6 @@
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\facturation.DAL\bin\Debug\netstandard2.0\facturation.DAL.deps.json
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\facturation.DAL\bin\Debug\netstandard2.0\facturation.DAL.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\facturation.DAL\obj\Debug\netstandard2.0\facturation.DAL.csprojAssemblyReference.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\facturation.DAL\obj\Debug\netstandard2.0\facturation.DAL.csproj.CoreCompileInputs.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\facturation.DAL\obj\Debug\netstandard2.0\facturation.DAL.AssemblyInfoInputs.cache
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\facturation.DAL\obj\Debug\netstandard2.0\facturation.DAL.AssemblyInfo.cs

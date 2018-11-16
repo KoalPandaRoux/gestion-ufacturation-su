@@ -21,3 +21,13 @@ C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufactura
 C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\obj\Debug\gestion-ufacturation.csproj.CopyComplete
 C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\obj\Debug\gestion-ufacturation.exe
 C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\obj\Debug\gestion-ufacturation.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\gestion-ufacturation.BLL.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\gestion-ufacturation.SHARED.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\gestion-ufacturation.DAL.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\MySql.Data.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\Google.Protobuf.dll
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\gestion-ufacturation.BLL.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\gestion-ufacturation.SHARED.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\gestion-ufacturation.DAL.pdb
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\MySql.Data.xml
+C:\Users\koalpandaroux\Documents\GitHub\gestion-ufacturation-su\gestion-ufacturation\bin\Debug\Google.Protobuf.xml

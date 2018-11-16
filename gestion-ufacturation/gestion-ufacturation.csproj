@@ -104,5 +104,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\gestion-ufacturation.BLL\gestion-ufacturation.BLL.csproj">
+      <Project>{fa2b2276-3e85-4901-921b-79953bbe1f2d}</Project>
+      <Name>gestion-ufacturation.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\gestion-ufacturation.SHARED\gestion-ufacturation.SHARED.csproj">
+      <Project>{9E49A8F6-BBAF-4026-9B86-B30160C0EF52}</Project>
+      <Name>gestion-ufacturation.SHARED</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
